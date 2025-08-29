@@ -29,3 +29,58 @@ body{
     font-size: 18px;
     text-align: center;
 }
+
+.form-container{
+    width: 800px;
+    margin: auto;
+    border-radius: 10px;
+    overflow: auto;
+    background-color: #611E6C;
+    
+}
+
+.title-form{
+    padding-top: 20px;
+    font-weight: 500;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.form{
+   text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    display: grid;
+    flex-direction: column;
+    gap: 20px;
+}
+
+input{
+    padding: 12px 15px;
+    border-radius: 8px;
+    border: none;
+    font-size: 18px;
+}
+
+input:focus{
+    outline: none;
+}
+
+.card-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.card{
+    background: linear-gradient(to bottom, #3D5DED, #6FC8FD);
+    width: 150px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+    box-shadow: 0 4px 10px rgba(4, 4, 4, 0.1);
+    border: 15px solid #2637D8;
+
+}
