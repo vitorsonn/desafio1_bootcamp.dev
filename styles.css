@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    background-color: #CCCCCC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-container{
+    background-color: #331839;
+    width: 900px;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.header{
+    padding: 50px;
+}
+
+.title{
+    color: #FECD23;
+    font-weight: 800;
+    font-size: 32px;
+    text-align: center;
+}
+
+.p{
+    font-size: 18px;
+    text-align: center;
+}
