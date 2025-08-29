@@ -84,3 +84,13 @@ input:focus{
     border: 15px solid #2637D8;
 
 }
+
+.card p{
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.card img{
+    width: 100%;
+    margin: 0 auto;
+}
