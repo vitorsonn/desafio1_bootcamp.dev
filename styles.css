@@ -37,6 +37,7 @@ body{
     margin: auto;
     border-radius: 10px;
     overflow: auto;
+    background: linear-gradient(to bottom, #5C1D67 , #220D25);
     background-color: #611E6C;
     padding-bottom: 30px;
     
