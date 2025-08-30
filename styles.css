@@ -20,9 +20,11 @@ body{
 
 .title{
     color: #FECD23;
-    font-weight: 800;
-    font-size: 32px;
+    font-size: 40px;
     text-align: center;
+    font-family: "oxygen", sans-serif;
+    font-weight: 700;
+    font-style: normal;
 }
 
 .p{
@@ -36,6 +38,7 @@ body{
     border-radius: 10px;
     overflow: auto;
     background-color: #611E6C;
+    padding-bottom: 30px;
     
 }
 
@@ -81,7 +84,7 @@ input:focus{
     text-align: center;
     margin: 0 auto;
     box-shadow: 0 4px 10px rgba(4, 4, 4, 0.1);
-    border: 15px solid #2637D8;
+    border: 10px solid #2637D8;
 
 }
 
@@ -93,4 +96,23 @@ input:focus{
 .card img{
     width: 100%;
     margin: 0 auto;
+}
+
+button{
+    padding: 20px 10px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    width: 60%;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer;
+
+}
+
+footer{
+    text-align: center;
+    margin-top: 10px;
 }
