@@ -8,10 +8,10 @@ body{
 }
 
 .main-container{
-    background-color: #331839;
     width: 900px;
     margin: auto;
     border-radius: 15px;
+    background: linear-gradient(to bottom, #220D25 , #5C1D67);
 }
 
 .header{
@@ -85,7 +85,7 @@ input:focus{
     text-align: center;
     margin: 0 auto;
     box-shadow: 0 4px 10px rgba(4, 4, 4, 0.1);
-    border: 10px solid #2637D8;
+    border: 12px solid #2637D8;
 
 }
 
