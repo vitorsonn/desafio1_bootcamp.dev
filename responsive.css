@@ -1,0 +1,30 @@
+@media screen and (max-width: 620px){
+
+.card-container{
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+.main-container{
+    width: 95%;
+    
+}
+
+.title{
+    font-size: 50px;
+}
+
+.form-container{
+  width: 80%;
+  padding: 20px;
+  
+}
+
+input{
+    width: 90%;
+    
+}
+
+
+}
